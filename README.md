@@ -18,26 +18,33 @@ Alimic  business activities include:
 
 #***Problem Statement***
 
-This business faced difficulties in acknowledging why it wouldn't continue servicing its debt. Profits seemed to dimmer day by day since year 2021. The C.E.O really wanted a breakdown of every financial activity since 2018. He wanted a forecast of the next five years from the trends observed. He also wanted to see his business analysis in profits and losses on daily basis.
+This company encountered challenges in comprehending the reasons behind its inability to sustain its debt service. The profitability of the business had been gradually declining since 2021. The Chief Executive Officer (CEO) expressed a strong desire to obtain a detailed breakdown of all financial operations from 2017. The CEO sought a projection of the business's performance for the next five years based on observed trends. Additionally, the CEO requested a daily analysis of the company's profit and loss on the financial model.
 
 #***Objectives***
 
-- Import data from pysical ledgers
-- Clean up and Transform data
-- Analyze past financial trends 
-- Give 5 year financial forecast at low case scenario and best case sceanrio.
-- Using a dashboards solve profit problems and inventory cost, show market analysis, macro-economic trends
-- Develop a fully integrated and automated model to make it easier to analyze live performance.
--	Automated financial statements
+- Import data from physical ledgers.
+- Conduct data cleaning and transformation.
+- Analyze historical financial trends.
+- Provide a 5-year financial forecast for both a pessimistic and optimistic scenario.
+- Utilize dashboards to address profit issues, inventory costs, and present market analysis and macroeconomic trends.
+- Develop a comprehensive, integrated, and automated model for real-time performance analysis.
+- Automate the generation of financial statements.
 
 
 #***Cover page***
 
-This is an overview of the model from the coverpage.The above page was build by use of LEFT/RIGHT/CELL/LENGTH functions to make it more dynamic in case the sheets names are renamed.
+This is an overview of the model from the coverpage.The following page was developed using the following functions: FIND/LEFT/RIGHT/CELL/LENGTH. 
 ![](Cover code 1.png)
 
-The above functions resulted to the following cover page
+The above functions resulted to the following cover page. The functions listed above are used to make the sheet tittles more dynamic and easy to link using a hyperlink.
 ![](Alimic images/cover.png)
+
+#***Dashboard***
+
+Upon completing the data cleaning and transformation process, we were able to identify several financial trends and pinpoint the underlying reasons for the business's poor performance. The company was adversely affected by macroeconomic factors, namely an elevated level of inflation, the ongoing conflict in Ukraine, and the impact of the COVID-19 pandemic. We observed that the substantial profit margins were eroded by the soaring cost of inventory, specifically with regards to oil as the primary contributor, followed by significant price fluctuations in fuel. Additionally, a decline in sales trends became apparent when compared to previous years, primarily attributed to the economic shutdown preceding the onset of the COVID-19 crisis.
+
+![](Alimic images/cover.png)
+
 
 
 
