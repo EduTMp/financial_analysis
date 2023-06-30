@@ -9,7 +9,7 @@ Alimic  business activities include:
 - Selling merchadise and content purchased for resale from third party seller throgh physical delivery.
 - Acting as an intermediary between sellers, or service providers to consumers.
 - Acting as a trustee between different parties and associates.
-- Alimic company was founded in2005 
+- Alimic company was founded in 2005 
 
 # Model Overview 
 ***Raw data provided***
