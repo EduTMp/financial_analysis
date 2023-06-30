@@ -11,6 +11,11 @@ Alimic  business activities include:
 - Acting as a trustee between different parties and associates.
 - Alimic company was founded in2005 
 
+# Model Overview 
+***Raw data provided***
+
+![](Alimic images/Historical data.png)
+
 #***Problem Statement***
 
 This business faced difficulties in acknowledging why it wouldn't continue servicing its debt. Profits seemed to dimmer day by day since year 2021. The C.E.O really wanted a breakdown of every financial activity since 2018. He wanted a forecast of the next five years from the trends observed. He also wanted to see his business analysis in profits and losses on daily basis.
@@ -24,11 +29,7 @@ This business faced difficulties in acknowledging why it wouldn't continue servi
 - Using a dashboards solve profit problems and inventory cost, show market analysis, macro-economic trends
 - Develop a fully integrated and automated model to make it easier to analyze live performance.
 -	Automated financial statements
-  
-# Model Overview 
-***Raw data provided***
 
-![](Alimic images/Historical data.png)
 
 #***Cover page***
 
