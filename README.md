@@ -43,7 +43,13 @@ Upon completing the data cleaning and transformation process, we were able to id
 
 ![](Alimic images/dashboard.png)
 
+#***Daily Analysis***
+Daily financial analysis in a business involves a systematic examination of the company's financial data on a day-to-day basis. It is a crucial practice that provides real-time insights into the financial health and performance of the organization. The process typically includes the following key activities:
+- The first step involved collecting financial data from various sources, such as sales records, expenses, inventory, cash flow statements, and other relevant financial documents.
+- Data Verification and Cleaning: The gathered data is thoroughly verified for accuracy and cleaned to ensure that any errors or inconsistencies are identified and rectified.
+I used functions to automate the daily analysis.
 
+![](Alimic images/dashboard.png)
 
 
 
