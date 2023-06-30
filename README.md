@@ -1,4 +1,4 @@
-# financial_analysis
+
 # [Project 1:Fully automated and integrated model](https://docs.google.com/spreadsheets/d/1VDj_TUVYIETJ8450qMmA0BffQf45tqBl7VpNRHaQFgM/edit#gid=0)
 This was my first project on excel. It was quit basic and helpful to the business.
 •	5 years raw data was provided by the bakery owner. 
