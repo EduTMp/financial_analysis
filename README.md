@@ -43,7 +43,7 @@ The above functions resulted to the following cover page. The functions listed a
 
 Upon completing the data cleaning and transformation process, we were able to identify several financial trends and pinpoint the underlying reasons for the business's poor performance. The company was adversely affected by macroeconomic factors, namely an elevated level of inflation, the ongoing conflict in Ukraine, and the impact of the COVID-19 pandemic. We observed that the substantial profit margins were eroded by the soaring cost of inventory, specifically with regards to oil as the primary contributor, followed by significant price fluctuations in fuel. Additionally, a decline in sales trends became apparent when compared to previous years, primarily attributed to the economic shutdown preceding the onset of the COVID-19 crisis.
 
-![](Alimic images/cover.png)
+![](Alimic images/dashboard.png)
 
 
 
