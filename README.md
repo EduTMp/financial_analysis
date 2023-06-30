@@ -56,7 +56,11 @@ In the preceding stages, extensive work was undertaken to gather and analyze the
 
 ![](Alimic images/Owners page.png)
 
+#***Automated financial statements.***
 
+The automation of financial statements streamlines the process, saving time and resources. Manual preparation of financial statements can be time-consuming and labor-intensive, especially for large and complex companies. Automation allows for efficient generation, freeing up valuable resources that can be utilized for other critical tasks. The page was automated using VLOOKUP, IFSUMS, SUMS and relative references from other sheets.
+
+![](Alimic images/Owners page.png)
 
 
 
