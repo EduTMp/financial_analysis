@@ -34,8 +34,6 @@ This company encountered challenges in comprehending the reasons behind its inab
 #***Cover page***
 
 This is an overview of the model from the coverpage.The following page was developed using the following functions: FIND/LEFT/RIGHT/CELL/LENGTH. 
-![](Cover code 1.png)
-
 The above functions resulted to the following cover page. The functions listed above are used to make the sheet tittles more dynamic and easy to link using a hyperlink.
 ![](Alimic images/cover.png)
 
