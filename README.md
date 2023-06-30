@@ -66,6 +66,6 @@ The automation of financial statements streamlines the process, saving time and 
 
 ![](Alimic images/automated financial statements.png)
 
-#[**Recommendation**]
+# Recommendation
 
 Based on the analysis conducted, the business faced low sales, resulting in a higher expenditure on employee salaries. To address this, I recommended a shift towards a commission-based payment structure instead of a fixed monthly salary. This approach incentivize sellers to increase their sales efforts while discouraging any misuse of fuel resources. Furthermore, I advised the company to consider purchasing oil in larger quantities to benefit from economies of scale and reduce costs. Additionally, the analysis revealed that sales peaked during school holiday breaks, indicating that the primary target market consisted of middle-aged customers between the ages of 12 and 18. As a result, I suggested that the company should explore opportunities in school canteens to tap into a larger market and maintain high sales even on regular school days.
