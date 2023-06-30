@@ -28,8 +28,10 @@ This business faced difficulties in acknowledging why it wouldn't continue servi
 # Model Overview  
 This is an overview of the model from the coverpage.
 ![](Alimic images/cover.png)
+
 The above page was build by use of LEFT/RIGHT/CELL/LENGTH functions to make it more dynamic in case the sheets names are renamed.
-![](Alimic images/cover.png)\
+
+![](Alimic images/cover code.png)\
 
 
 
