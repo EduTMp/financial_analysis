@@ -54,7 +54,7 @@ I used functions to automate the daily analysis.
 
 In the preceding stages, extensive work was undertaken to gather and analyze the necessary data, with the ultimate aim of producing meaningful results. The initial phase involved meticulous data collection from various sources, such as sales, creditors, debtors,expenses and other operational metrics. Rigorous data cleaning and validation processes were employed to ensure the accuracy and integrity of the dataset.
 
-![](Alimic images/daily analysis.png)
+![](Alimic images/Owners page.png)
 
 
 
