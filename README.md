@@ -10,4 +10,4 @@ This was my first project on excel. It was quit basic and helpful to the busines
 
 # Overview of the all features through coverpage
 
-![](Captures/desktop.ini)
+![](Petronix Data - Google Sheets - Google Chrome 6_30_2023 10_42_00 AM.png)
