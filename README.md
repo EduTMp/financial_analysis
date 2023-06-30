@@ -25,14 +25,13 @@ This business faced difficulties in acknowledging why it wouldn't continue servi
 - Develop a fully integrated and automated model to make it easier to analyze live performance.
 -	Automated financial statements
   
-# Model Overview  
-This is an overview of the model from the coverpage.
+# Model Overview 
+***Raw data provided***
+![](Alimic images/raw data.png)
+
+#***Cover page***
+This is an overview of the model from the coverpage.The above page was build by use of LEFT/RIGHT/CELL/LENGTH functions to make it more dynamic in case the sheets names are renamed.
 ![](Alimic images/cover.png)
-
-The above page was build by use of LEFT/RIGHT/CELL/LENGTH functions to make it more dynamic in case the sheets names are renamed.
-
-![](Alimic images/cover code.png)\
-
 
 
 
