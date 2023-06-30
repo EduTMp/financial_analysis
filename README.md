@@ -21,4 +21,5 @@ This business faced difficulties in acknowledging why it wouldn't continue servi
 -	Automated financial statements
   
 # Overview of all features through coverpage 
-![](Captures/Petronix Data - Google Sheets - Google Chrome 6_30_2023 10_42_00 AM.png)
+This is an overview of the model.
+![](Alimic images/cover.png)
