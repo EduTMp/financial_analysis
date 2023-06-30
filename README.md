@@ -49,7 +49,7 @@ Daily financial analysis in a business involves a systematic examination of the 
 - Data Verification and Cleaning: The gathered data is thoroughly verified for accuracy and cleaned to ensure that any errors or inconsistencies are identified and rectified.
 I used functions to automate the daily analysis.
 
-![](Alimic images/dashboard.png)
+![](Alimic images/Formulate daily analysis.png)
 
 
 
