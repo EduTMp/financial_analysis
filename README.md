@@ -1,5 +1,5 @@
 
-# [Project 1:Fully automated and integrated model](https://www.upwork.com/services/product/consulting-hr-a-fully-integrated-and-automated-financial-model-file-1651955799414988800?ref=project_share&tier=0)
+# [Project 1:Fully automated and integrated model](https://edutmp.github.io/financial_model_file/)
 #***Introduction***
 
 This was my first project on excel. It was quite basic and helpful to the business. 
