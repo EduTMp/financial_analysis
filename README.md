@@ -34,9 +34,10 @@ This business faced difficulties in acknowledging why it wouldn't continue servi
 #***Cover page***
 
 This is an overview of the model from the coverpage.The above page was build by use of LEFT/RIGHT/CELL/LENGTH functions to make it more dynamic in case the sheets names are renamed.
-![](Alimic images/cover.png)
+![](Alimic images/Cover code1.png)
 
-
+The above functions resulted to the following cover page
+![](Alimic images/Cover.png)
 
 
 
